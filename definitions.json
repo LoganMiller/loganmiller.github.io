@@ -1,0 +1,19 @@
+{
+    "definitions" : {
+        "2021-02-09" : {
+            "word" : "peripatetic",
+            "type" : "adjective",
+            "definition" : "Wandering from place to place, expecially on foot"
+        },
+        "2021-02-10" : {
+            "word" : "idyllic",
+            "type" : "adjective",
+            "definition" : "Naturally peaceful"
+        },
+        "2021-02-11" : {
+            "word" : "slipshod",
+            "type" : "adjective",
+            "definition" : "Untidy in dress, personal habits, etc."
+        }
+    }
+}
